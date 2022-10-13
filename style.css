@@ -1,0 +1,44 @@
+body
+  {background-image: url("https://i.pinimg.com/originals/e9/57/c1/e957c15c5087a32d46c5bf2da5faef10.gif");
+  background-size: cover;
+  }
+  
+ div 
+  { border: 1px solid #F1D27D;
+   padding-left:25px;
+   background-color:rgba(211, 202, 129, 0.6);
+   width: 650px; height: 550px;
+   background-size: cover;
+  
+  } 
+  
+ h1
+  { color: #27877A;
+    font-family: Impact;
+	text-align: center;
+	font-size:50px;
+	background-image: url("https://www.sunstargrandhotel.com/wp-content/uploads/2015/07/parchment-background.jpg");
+	background-size: cover;
+	width:500px;
+	background-position: center center;
+  }
+ 
+ h3
+   { color: #1CA794;
+  font-family: Comic Sans MS;
+  font-size:25px;
+  opacity:1;
+  }
+	 
+  p
+   {color: white;
+    text-align: left-side; 
+	font-family: Segoe Script;
+	text-shadow: -1px 0  #27877A, 0 1px  #27877A, 1px 0  #27877A, 0 -1px  #27877A;
+	opacity:1;
+  }
+  
+  
+ 
+ 
+	
